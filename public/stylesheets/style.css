@@ -1,0 +1,51 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+
+
+header {
+  background-color: blueviolet;
+  padding: 16px 0;
+}
+
+header h1 {
+  color: white;
+  font-size: 40px;
+  font-weight: 100;
+  font-style: italic;
+  display: inline-block;
+  position: relative;
+  bottom: 35px;
+  margin-left: 10px;
+}
+
+footer {
+  background-color: blue;
+  clear: both;
+  color: aqua;
+  text-align: center;
+  padding: 50px 0;
+  margin-top: 20px;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0% auto;
+}
+
+h2 {
+  color: rgb(255, 8, 0);
+  font-weight: 400;
+}
